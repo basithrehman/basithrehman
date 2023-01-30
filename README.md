@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-I am a graduate of Bachelor of Technology in Computer Science Engineering, Manipal Institute of Technology bringing around 3 years of experience in Software Development. I am capable of adapting to the immediate environment, have a good understanding of multiple programming languages and have a keen interest in the field of front-end and UI development. Great communication skills possessing fluency in English and a mindset catered to ensure the task at hand is dealt with in a concise manner indicative of punctuality and precision.
+I am a fullstack software engineer with 3+ years of experience and a graduate of Bachelor of Technology in Computer Science Engineering, Manipal Institute of Technology. I excel at growing, leading and working with teams as well as being comfortable with delivering projects independently. I have been key in building products of a number of start-ups, including my own, and have worked in both medium and large corporates such as Oracle and PharmEasy/Aknamed. I am capable of adapting to the immediate environment with a mindset catered to ensure the task at hand is dealt with in a concise manner indicative of punctuality and precision.
 
 
 ## 🌐 Socials:
